@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VersusSysChallenge/VSCBizListViewController.swift"
+            timestampString = "528725863.263885"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchBusinessInfo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VersusSysChallenge/VSCBizListViewController.swift"
+            timestampString = "528725863.264077"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VersusSysChallenge/NetworkLayer/NetworkManager.swift"
+            timestampString = "528725863.264221"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "authenticatWithYelp(success:fail:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VersusSysChallenge/VSCBizListViewController.swift"
+            timestampString = "528725863.264371"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchBusinessInfo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;VersusSysChallenge.Businesses&gt;) -&gt; () in VersusSysChallenge.VSCBizListViewController.fetchBusinessInfo() -&gt; ()"
+                  moduleName = "VersusSysChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arbidh/VersusSysChallenge/VersusSysChallenge/VSCBizListViewController.swift"
+                  timestampString = "528724636.755209"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (VersusSysChallenge.networkErrorType) -&gt; () in VersusSysChallenge.VSCBizListViewController.fetchBusinessInfo() -&gt; ()"
+                  moduleName = "VersusSysChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arbidh/VersusSysChallenge/VersusSysChallenge/VSCBizListViewController.swift"
+                  timestampString = "528724636.758896"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "33">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VersusSysChallenge/NetworkLayer/NetworkManager.swift"
+            timestampString = "528725863.264498"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "fetchBusinessData(long:lat:success:fail:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VersusSysChallenge/ViewController.swift"
+            timestampString = "528725863.264597"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VersusSysChallenge/VSCBizListViewController.swift"
+            timestampString = "528725863.264722"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchBusinessInfo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VersusSysChallenge.VSCBizListViewController.fetchBusinessInfo() -&gt; ()"
+                  moduleName = "VersusSysChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arbidh/VersusSysChallenge/VersusSysChallenge/VSCBizListViewController.swift"
+                  timestampString = "528724636.776066"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;VersusSysChallenge.Businesses&gt;) -&gt; () in VersusSysChallenge.VSCBizListViewController.fetchBusinessInfo() -&gt; ()"
+                  moduleName = "VersusSysChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arbidh/VersusSysChallenge/VersusSysChallenge/VSCBizListViewController.swift"
+                  timestampString = "528724636.778648"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VersusSysChallenge/VSCBizListViewController.swift"
+            timestampString = "528725863.264829"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchBusinessInfo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VersusSysChallenge.VSCBizListViewController.fetchBusinessInfo() -&gt; ()"
+                  moduleName = "VersusSysChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arbidh/VersusSysChallenge/VersusSysChallenge/VSCBizListViewController.swift"
+                  timestampString = "528724636.785402"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;VersusSysChallenge.Businesses&gt;) -&gt; () in VersusSysChallenge.VSCBizListViewController.fetchBusinessInfo() -&gt; ()"
+                  moduleName = "VersusSysChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arbidh/VersusSysChallenge/VersusSysChallenge/VSCBizListViewController.swift"
+                  timestampString = "528724636.788483"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VersusSysChallenge/NetworkLayer/NetworkManager.swift"
+            timestampString = "528725863.26495"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "fetchBusinessData(long:lat:success:fail:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in VersusSysChallenge.NetworkManager.fetchBusinessData(long: Swift.Double, lat: Swift.Double, success: (Swift.Array&lt;VersusSysChallenge.Businesses&gt;) -&gt; (), fail: (VersusSysChallenge.networkErrorType) -&gt; ()) -&gt; ()"
+                  moduleName = "VersusSysChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arbidh/VersusSysChallenge/VersusSysChallenge/NetworkLayer/NetworkManager.swift"
+                  timestampString = "528724636.796618"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;VersusSysChallenge.BusinessModel&gt;) -&gt; () in closure #1 () -&gt; () in VersusSysChallenge.NetworkManager.fetchBusinessData(long: Swift.Double, lat: Swift.Double, success: (Swift.Array&lt;VersusSysChallenge.Businesses&gt;) -&gt; (), fail: (VersusSysChallenge.networkErrorType) -&gt; ()) -&gt; ()"
+                  moduleName = "VersusSysChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arbidh/VersusSysChallenge/VersusSysChallenge/NetworkLayer/NetworkManager.swift"
+                  timestampString = "528724636.798978"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VersusSysChallenge/NetworkLayer/NetworkManager.swift"
+            timestampString = "528725863.265048"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "fetchBusinessData(long:lat:success:fail:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VersusSysChallenge/NetworkLayer/NetworkManager.swift"
+            timestampString = "528725863.265131"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "fetchBusinessData(long:lat:success:fail:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VersusSysChallenge/NetworkLayer/NetworkManager.swift"
+            timestampString = "528725863.265199"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "fetchBusinessData(long:lat:success:fail:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VersusSysChallenge/NetworkLayer/NetworkManager.swift"
+            timestampString = "528725863.265266"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "authenticatWithYelp(success:fail:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
